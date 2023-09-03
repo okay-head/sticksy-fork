@@ -1,5 +1,6 @@
 <h1 align="left">Sticksy.js 📌</h1>
 <h2>Sticksy clone</h2>
+<h3>You're not the one without bugs, it took me a long time to make it work for my project</h3>
 
 [![npm](https://badge.fury.io/js/sticksy.svg)](https://www.npmjs.com/package/sticksy)
 [![gzip size](https://badgen.net/badgesize/gzip/https://unpkg.com/sticksy@latest/dist/sticksy.min.js)](https://cdn.jsdelivr.net/npm/sticksy/dist/sticksy.min.js)
